@@ -1,0 +1,2 @@
+# gradle-docker-global-template
+希望无视环境因素通过docker直接编译android代码生成apk的可以套用此模板，只需根据里面的注释最简单的修改里面的参数便可以应对绝大多数情况。
